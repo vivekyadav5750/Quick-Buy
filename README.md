@@ -1,8 +1,21 @@
-# React + Vite
+# Quick Buy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quick Buy is a web application built using React, Vite, and Tailwind CSS. It allows users to browse various categories of products, add items to their cart, and enjoy a responsive menu for seamless navigation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Categories:** Browse products conveniently sorted into different categories.
+- **Cart:** Add items to your cart for easy checkout.
+- **Loading Skeleton:** Enjoy a smooth loading experience with loading skeletons while content loads.
+- **Responsive Menu:** The menu adapts to different screen sizes for optimal viewing on any device.
+
+## Hosted URL
+
+[Quick Buy on ShopVerse](https://quick-buy-tau.vercel.app/)
+
+
+## Tools Used
+
+- React
+- Vite
+- Tailwind CSS
